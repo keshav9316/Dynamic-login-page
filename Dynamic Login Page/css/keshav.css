@@ -1,0 +1,19 @@
+#login-tab,#register-tab{
+ padding: 12px;
+ width: 17.5%;
+ display: inline-block;
+ box-sizing: border-box;
+ box-align: center;
+ text-align: center;
+ color:white;
+ text-transform: uppercase;
+ cursor: pointer;
+}
+
+.active{
+    background:rgba(45, 141, 214, 0.295);
+}
+
+.textarea{
+    display:inline-block;
+}
